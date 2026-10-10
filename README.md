@@ -1,2 +1,2 @@
 # Multiverse
-Sequence all MCU movies.
+All MCU movies in sequence.
